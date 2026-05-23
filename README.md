@@ -26,4 +26,4 @@ I am a computer engineering student focused on cybersecurity.
 Build practical and foundational security knowledge while growing toward entry-level opportunities in cybersecurity.
 
 ## My social medias
-[![LinkedIn](https://cdn-icons-png.flaticon.com/512/174/174857.png?utm_source=chatgpt.com)](https://www.linkedin.com/in/caio-ribeiro-freire-293962410/)
+[![LinkedIn](<img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="35"/>)](https://www.linkedin.com/in/caio-ribeiro-freire-293962410/)
