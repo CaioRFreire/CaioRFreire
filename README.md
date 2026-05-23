@@ -14,7 +14,14 @@ I am a computer engineering student focused on cybersecurity.
 - Google Cybersecurity Professional Certificate
 
 ## My main tools & technologies 💻
-- Linux
+<img 
+    align="left" 
+    alt="Linux" 
+    title="Linux"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png" 
+/>
 - Python
 - SQL
 - Splunk
