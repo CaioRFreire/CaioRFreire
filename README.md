@@ -26,8 +26,8 @@ I am a computer engineering student focused on cybersecurity.
     align="left" 
     alt="Python" 
     title="Python"
-    width="100px" 
-    style="padding-right: 100px;" 
+    width="50px" 
+    style="padding-right: 50px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" 
 />
 - SQL
