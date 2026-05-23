@@ -22,7 +22,14 @@ I am a computer engineering student focused on cybersecurity.
     style="padding-right: 100px;" 
     src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png" 
 />
-- Python
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="100px" 
+    style="padding-right: 100px;" 
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" 
+/>
 - SQL
 - Splunk
 - Wazuh
