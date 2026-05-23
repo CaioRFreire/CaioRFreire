@@ -14,30 +14,9 @@ I am a computer engineering student focused on cybersecurity.
 - Google Cybersecurity Professional Certificate
 
 ## My main tools & technologies 💻
-<img 
-    align="left" 
-    alt="Linux" 
-    title="Linux"
-    width="100px" 
-    style="padding-right: 100px;" 
-    src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 50px;" 
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="50px" 
-    style="padding-right: 50px;" 
-    src="https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png" 
-/>
+- Linux
+- Python
+- SQL
 - Splunk
 - Wazuh
 - Wireshark
