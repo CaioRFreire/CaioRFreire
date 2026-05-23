@@ -18,8 +18,8 @@ I am a computer engineering student focused on cybersecurity.
     align="left" 
     alt="Linux" 
     title="Linux"
-    width="30px" 
-    style="padding-right: 30px;" 
+    width="100px" 
+    style="padding-right: 10px;" 
     src="https://download.logo.wine/logo/Linux/Linux-Logo.wine.png" 
 />
 - Python
