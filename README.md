@@ -2,18 +2,18 @@
 
 I am a computer engineering student focused on cybersecurity.
 
-## My areas of Interest
+## My areas of Interest 🛡️
 - SOC Operations
 - Security Engineering
 - Cloud Security
 
-## I am currently studying
+## I am currently studying 📚
 - TryHackMe SOC Level 1
 
-## My certifications
+## My certifications 🎓
 - Google Cybersecurity Professional Certificate
 
-## My main tools & technologies
+## My main tools & technologies 💻
 - Linux
 - Python
 - SQL
@@ -22,8 +22,8 @@ I am a computer engineering student focused on cybersecurity.
 - Wireshark
 - TCPdump
 
-## My goals
+## My goals 🎯
 Build practical and foundational security knowledge while growing toward entry-level opportunities in cybersecurity.
 
-## Connect with me
+## Connect with me 📫
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caio-ribeiro-freire-293962410/)
