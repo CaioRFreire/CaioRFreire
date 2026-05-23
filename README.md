@@ -1,16 +1,26 @@
-## Hi there 👋
+# Welcome to my profile, I'm Caio 👋
 
-<!--
-**CaioRFreire/CaioRFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a computer engineering student focused on cybersecurity.
 
-Here are some ideas to get you started:
+## My areas of Interest
+- SOC Operations
+- Security Engineering
+- Cloud Security
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## I am currently studying
+- TryHackMe SOC Level 1
+
+## My certifications
+- Google Cybersecurity Professional Certificate
+
+## My main tools & technologies
+- Linux
+- Python
+- SQL
+- Splunk
+- Wazuh
+- Wireshark
+- TCPdump
+
+## My goals
+Build practical and foundational security knowledge while growing toward entry-level opportunities in cybersecurity.
