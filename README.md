@@ -2,7 +2,7 @@
 
 I am a computer engineering student focused on cybersecurity.
 
-## My areas of Interest 🛡️
+## My areas of interest 🛡️
 - SOC Operations
 - Security Engineering
 - Cloud Security
