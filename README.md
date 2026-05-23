@@ -30,7 +30,14 @@ I am a computer engineering student focused on cybersecurity.
     style="padding-right: 50px;" 
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1280px-Python-logo-notext.svg.png" 
 />
-- SQL
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="50px" 
+    style="padding-right: 50px;" 
+    src="https://www.clipartmax.com/png/middle/275-2753287_sql-is-a-query-language-used-to-communicate-with-databases-sql-language.png" 
+/>
 - Splunk
 - Wazuh
 - Wireshark
