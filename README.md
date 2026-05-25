@@ -9,8 +9,9 @@ I am a computer engineering student focused on cybersecurity.
 - Security Engineer
 - Cloud Security
 
-## I am currently studying 📚
-- TryHackMe SOC Level 1
+## I am currently 📚
+- Pursuing TryHackMe SOC Level 1
+- Developing hands-on security projects
 
 ## My certifications 🎓
 - Google Cybersecurity Professional Certificate
