@@ -5,7 +5,6 @@ I am a computer engineering student focused on cybersecurity.
 ## My areas of interest 🛡️
 - SOC Operations
 - Security Analyst
-- Network Security
 - Security Engineer
 - Cloud Security
 
