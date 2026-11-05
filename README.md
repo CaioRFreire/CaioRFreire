@@ -16,6 +16,7 @@ I am a computer engineering student focused on cybersecurity.
 - Wazuh Home SOC Lab
 
 ## My certifications 🎓
+- Fluencypass English Language Program
 - Google Cybersecurity Professional Certificate
 - TryHackMe SOC L1
 
