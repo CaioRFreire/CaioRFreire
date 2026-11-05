@@ -11,6 +11,9 @@ I am a computer engineering student focused on cybersecurity.
 ## I am currently 📚
 - Building cybersecurity projects and studying for the CompTIA Security+
 
+## My projects ⚙️
+- Wazuh Home SOC Lab
+
 ## My certifications 🎓
 - Google Cybersecurity Professional Certificate
 - TryHackMe SOC L1
