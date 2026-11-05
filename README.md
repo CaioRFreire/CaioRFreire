@@ -7,6 +7,7 @@ I am a computer engineering student focused on cybersecurity.
 - Security Analyst
 - Security Engineer
 - Cloud Security
+- AI Security
 
 ## I am currently 📚
 - Building cybersecurity projects and studying for the CompTIA Security+
