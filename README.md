@@ -1,4 +1,4 @@
-# Welcome to my profile, I'm Caio 👋
+# Welcome to my profile, I'm Caio 🫡
 
 I am a computer engineering student focused on cybersecurity.
 
