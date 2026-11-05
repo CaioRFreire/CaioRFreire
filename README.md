@@ -3,25 +3,28 @@
 I am a computer engineering student focused on cybersecurity.
 
 ## My areas of interest 🛡️
-- SOC Operations
+- SOC
 - Security Analyst
 - Security Engineer
 - Cloud Security
 
 ## I am currently 📚
-- Pursuing TryHackMe SOC Level 1
+- Building cybersecurity projects and studying for the CompTIA Security+
 
 ## My certifications 🎓
 - Google Cybersecurity Professional Certificate
+- TryHackMe SOC L1
 
 ## My main tools & technologies 💻
 - Linux
 - Python
 - SQL
 - Splunk
+- Elastic Stack
 - Wazuh
+- Snort
 - Wireshark
-- TCPdump
+- MITRE ATT&CK 
 
 ## My goals 🎯
 Build practical and foundational security knowledge while growing toward entry-level opportunities in cybersecurity.
