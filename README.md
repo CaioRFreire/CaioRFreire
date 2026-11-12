@@ -14,6 +14,7 @@ I am a computer engineering student focused on cybersecurity.
 
 ## My projects ⚙️
 - Wazuh Home SOC Lab
+- pfSense Network Firewall Home Lab
 
 ## My certifications 🎓
 - Fluencypass English Language Program
