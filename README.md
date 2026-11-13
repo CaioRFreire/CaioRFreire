@@ -1,4 +1,4 @@
-# Welcome to my profile 🫡
+# Welcome to my profile 👨‍💻
 
 I am a computer engineering student focused on cybersecurity.
 
