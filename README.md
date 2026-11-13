@@ -22,7 +22,7 @@ I am a computer engineering student focused on cybersecurity.
 - TryHackMe SOC L1
 
 ## My main tools & technologies 💻
-- Linux
+[![Linux]([https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])
 - Python
 - SQL
 - Splunk
