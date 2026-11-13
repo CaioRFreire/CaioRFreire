@@ -22,7 +22,7 @@ I am a computer engineering student focused on cybersecurity.
 - TryHackMe SOC L1
 
 ## My main tools & technologies 💻
-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="10" width="10"/>
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="20" width="20"/>
 - Python
 - SQL
 - Splunk
